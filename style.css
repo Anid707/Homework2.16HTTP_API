@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.name{
+    font-size: large;
+    font-weight: 700;
+}
+
+.email{
+    font-weight: 400;
+    font-style: italic;
+    margin: 20px 0;
+}
+
+.body{
+    font-weight: 400;
+    margin-bottom: 20px;
+}
